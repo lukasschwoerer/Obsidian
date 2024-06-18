@@ -1,0 +1,21 @@
+{
+  "todoPageName": "todo",
+  "showChecked": false,
+  "showAllTodos": false,
+  "autoRefresh": true,
+  "subGroups": false,
+  "groupBy": "tag",
+  "sortDirectionItems": "new->old",
+  "sortDirectionGroups": "new->old",
+  "sortDirectionSubGroups": "new->old",
+  "includeFiles": "!{9 Templates/**}",
+  "lookAndFeel": "compact",
+  "_collapsedSections": [
+    "#todo/privat",
+    "#todo/oct_setup",
+    "#todo/promotion"
+  ],
+  "_hiddenTags": [
+    "backlog"
+  ]
+}
