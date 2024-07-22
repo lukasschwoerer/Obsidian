@@ -6,15 +6,11 @@
   "subGroups": false,
   "groupBy": "tag",
   "sortDirectionItems": "new->old",
-  "sortDirectionGroups": "new->old",
+  "sortDirectionGroups": "a->z",
   "sortDirectionSubGroups": "new->old",
   "includeFiles": "!{9 Templates/**}",
   "lookAndFeel": "compact",
-  "_collapsedSections": [
-    "#todo/privat",
-    "#todo/oct_setup",
-    "#todo/promotion"
-  ],
+  "_collapsedSections": [],
   "_hiddenTags": [
     "backlog"
   ]

@@ -1,0 +1,247 @@
+{
+  "main": {
+    "id": "5922f0e21ce00d40",
+    "type": "split",
+    "children": [
+      {
+        "id": "efb33e28c6fccd6f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e68b90486230fbb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 Periodic Notes/0 Daily Notes/2024/07-July/2024-07-08-Monday.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3430a6b70e7d210f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 Periodic Notes/0 Daily Notes/2024/07-July/2024-07-10-Wednesday.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "44ba2017efb3b305",
+    "type": "split",
+    "children": [
+      {
+        "id": "83a9fc6baee5fe2e",
+        "type": "tabs",
+        "dimension": 63.1578947368421,
+        "children": [
+          {
+            "id": "5143ff28ed6a892d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5de0c352b883e820",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2cbeb96d7124ee84",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "f2924e801161fd15",
+        "type": "tabs",
+        "dimension": 36.84210526315789,
+        "children": [
+          {
+            "id": "490e0f3435702334",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "e2c8af408849b0a5",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5a221839ab2ce31c",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e2d0a77e83e5878",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d235015362f95f01",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2 Periodic Notes/0 Daily Notes/2024/07-July/2024-07-10-Wednesday.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f4b7e2368e587ae4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2 Periodic Notes/0 Daily Notes/2024/07-July/2024-07-10-Wednesday.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5c3eef0eb254bd2c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7f22594cd1e66c27",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2 Periodic Notes/0 Daily Notes/2024/07-July/2024-07-10-Wednesday.md"
+              }
+            }
+          },
+          {
+            "id": "bc3b13fcb1c72a60",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 297.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "janitor:Janitor: scan vault": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "3430a6b70e7d210f",
+  "lastOpenFiles": [
+    "3 Meetings/2024/07-July/2024-07-12-Interview Shehzadi Anmol Zahra.md",
+    "Untitled.md",
+    "3 Meetings/2024/07-July/2024-07-12-ZOT Weekly.md",
+    "2 Periodic Notes/0 Daily Notes/2024/07-July/2024-07-11-Thursday.md",
+    "2 Periodic Notes/0 Daily Notes/2024/07-July/2024-07-10-Wednesday.md",
+    "2 Periodic Notes/0 Daily Notes/2024/07-July/2024-07-12-Friday.md",
+    "2 Periodic Notes/1 Weekly Notes/2024-W28.md",
+    "2 Periodic Notes/0 Daily Notes/2024/07-July/2024-07-02-Tuesday.md",
+    "5 People/@Peter Schuster.md",
+    "@Peter Schuster.md",
+    "3 Meetings/2024/07-July/2024-07-10-Zeiss Weekly.md",
+    "3 Meetings/2024/07-July/2024-07-09-Interview Praneeth Katkam.md",
+    "3 Meetings/2024/07-July",
+    "2 Periodic Notes/0 Daily Notes/2024/07-July/2024-07-08-Monday.md",
+    "5 People/@Markus Traxler.md",
+    "77 Samples/Traxler_P1_MRF.md",
+    "1 Index and MOC's/002 Promotion.md",
+    "2 Periodic Notes/0 Daily Notes/2024/07-July",
+    "2 Periodic Notes/0 Daily Notes/2024/06-June/2024-06-25-Tuesday.md",
+    "2 Periodic Notes/0 Daily Notes/2024/06-June/2024-06-24-Monday.md",
+    "2 Periodic Notes/0 Daily Notes/2024/06-June/2024-06-21-Friday.md",
+    "77 Samples/Traxler_Quarz_F2.md",
+    "77 Samples/Traxler_Quarz_F1.md",
+    "77 Samples/Traxler_P8_UKP.md",
+    "77 Samples/Traxler_P7_UKP.md",
+    "77 Samples/Traxler_P6_UKP.md",
+    "77 Samples/Traxler_P5_UKP.md",
+    "77 Samples/Traxler_P4_UKP.md",
+    "8 Attachments/Pasted image 20240620181746.png",
+    "8 Attachments/Pasted image 20240620181720.png",
+    "8 Attachments/Pasted image 20240620181657.png",
+    "8 Attachments/Pasted image 20240620181639.png",
+    "8 Attachments/Pasted image 20240620181534.png",
+    "8 Attachments/Pasted image 20240620181512.png",
+    "8 Attachments/Pasted image 20240620181455.png",
+    "8 Attachments/Pasted image 20240620181207.png",
+    "8 Attachments/Pasted image 20240620181139.png",
+    "8 Attachments/Pasted image 20240620181056.png",
+    "0 Origin/Untitled.canvas",
+    "2 Periodic Notes/0 Daily Notes/2024/06-June",
+    "3 Meetings/2024/05-May",
+    "2 Periodic Notes/0 Daily Notes/2024/05-May",
+    "2 Periodic Notes/0 Daily Notes/2024/04-April",
+    "3 Meetings/2024/04-April"
+  ]
+}

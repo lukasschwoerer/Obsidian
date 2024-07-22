@@ -3,8 +3,9 @@
     "aliases": "aliases",
     "cssclasses": "multitext",
     "tags": "tags",
-    "Status": "text",
+    "Status": "checkbox",
     "Due Date": "date",
-    "Sample Material": "text"
+    "Sample Material": "text",
+    "Owner": "text"
   }
 }

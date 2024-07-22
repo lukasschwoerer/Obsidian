@@ -1,24 +1,28 @@
 ---
 <%*
+let items = app.vault.getFiles().filter(file => file.path.includes("4 People"))
+let names = items.map(item => item.basename)
 let SampleName = await tp.system.prompt("Sample Name?")
 let CreationDate = tp.file.creation_date("DD.MM.YYYY, HH:MM")
 let CompanyName = await tp.system.prompt("Company Name ?")
-let Owner = await tp.system.prompt("Owner ?")
+let Owner = await tp.system.suggester(names, names)
 let SampleMaterial = await tp.system.prompt("Sample Material ?")
+SampleName = Owner.substr(Owner.indexOf(" ") + 1) + "_" + SampleName
 %>
 Creation Date: <% CreationDate %>
 Company: <% CompanyName %>
-Owner: <% Owner %>
+Owner: "[[<% Owner %>]]"
 Sample Name: <% SampleName %>
 Sample Material: <% SampleMaterial %>
-Image Path:
+Cover: ""
+Measured: false
 <% tp.file.move("/77 Samples/" + SampleName) %>
 ---
 # Sample
 
-## Image
+# Measurements and Findings
 
-
+# History
 
 # Deadlines
 #todo/deadlines
